@@ -48,6 +48,6 @@ public class Convocatoria13122018 {
 	}
 
 	public static void main(String[] args) {
-		calculoMatriz(2, 3);
+		calculoMatriz(3, 3);
 	}
 }
